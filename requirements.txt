@@ -1,2 +1,3 @@
 numpy
+nicegui
 Phidget22
